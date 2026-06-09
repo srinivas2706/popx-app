@@ -4,11 +4,11 @@ A React JS implementation of the PopX mobile app UI — built from Adobe XD desi
 
 ## 🚀 Live Demo
 
-[Hosted Link](https://github.com/srinivas2706/popx-app)
+[Hosted Link](https://popx-app-rho-seven.vercel.app/)
 
 ## 📂 GitHub Repository
 
-[GitHub Repo](https://github.com/your-username/popx-app) ← Replace after push
+[GitHub Repo](https://github.com/srinivas2706/popx-app)
 
 ---
 
