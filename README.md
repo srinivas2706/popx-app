@@ -105,22 +105,7 @@ popx-app/
 └── README.md
 ```
 
----
-
-## ✅ Assignment Checklist
-
-- [x] Pixel-perfect design matching Adobe XD mockups
-- [x] Mobile app interface centered on webpage
-- [x] Seamless navigation between all 4 screens
-- [x] Clean, well-formatted code
-- [x] React Router v6 for navigation
-- [x] Form validation on Login page
-- [x] Responsive: fills screen on mobile, centered on desktop
-
----
-
 ## 🧑‍💻 Author
 
-**Your Name Here**  
-Email: your@email.com  
-Contact: +91-XXXXXXXXXX
+Puchakayala Srinivas  
+Email: srinivaspuchakayala2706@gmail.com  
